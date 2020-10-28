@@ -24,8 +24,8 @@ Hash se refiere a una función o método para generar claves o llaves que repres
 
 ![image](https://user-images.githubusercontent.com/73612146/97497603-62b3b080-1930-11eb-97a9-6e26b4048f6e.png)
 
-El primer ciclo for lo ocupo para ingresar los datos Ami arreglo en "cin>>numeroarreglo[i]" le estoy indicando al código que me capture numeroareglo en la posición i y como mi i la tengo Iguala a cero empieza desde esa posición luego regresa al ciclo for y vuelve a comparar pero como en mi ciclo for le estoy indicando que cada ves que pase por Hai incremente 1 cuando vuelva a pasar la i cambiará de valor hasta llegar a 10 que es el límite de mi arreglo.
-En el segundo for lo que ago es imprimir mi arreglo simplemente diciendo que imprima numeroarreglo en la posición [i] y de igual forma como i está igualada a p empiesa a imprimir desde la posición 0 hasta la 10 cada unos de los valores que hay es ese espacio. 
+El primer ciclo for lo ocupo para ingresar los datos ami arreglo en "cin>>numeroarreglo[i]" le estoy indicando al código que me capture numeroareglo en la posición i y como mi i la tengo Iguala a cero empieza desde esa posición luego regresa al ciclo for y vuelve a comparar pero como en mi ciclo for le estoy indicando que cada ves que pase por ahi incremente 1 cuando vuelva a pasar la i cambiará de valor hasta llegar a 10 que es el límite de mi arreglo.
+En el segundo for lo que hago es imprimir mi arreglo simplemente diciendo que imprima numeroarreglo en la posición [i] y de igual forma como i está igualada a p empiesa a imprimir desde la posición 0 hasta la 10 cada unos de los valores que hay es ese espacio. 
 En el tercer ciclo for voy a buscar mi dato por lo cual lo anido con un if lo que hace mi for es visualizar cada uno de los espacios del arreglo y mi if compara el dato de esa posición con la de el dato que estoy buscando cuando el if encuentre la considencia usaremos la bandera ya ella cambiará de valor de 0 a 1 indicando que el ciclo for que pare.
 
 #EJECUCION DEL PROGRAMA 
