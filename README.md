@@ -36,11 +36,11 @@ Se insertena las las matriculas.
 
 ![image](https://user-images.githubusercontent.com/73612146/97502780-77e10d00-1939-11eb-9e79-9002840528f9.png)
 
-se muestran las matriculas ingresadas y se pide al usuario ingresar la matricula a buscar, si la matricula introducia esta en el arreglo mandara un mensaje "la matricula esta en uso".
+se muestran las matriculas ingresadas y se pide al usuario ingresar la matricula a buscar, si la matricula introducia a buscar  esta en el arreglo mandara un mensaje "la matricula esta en uso".
 
 
 ![image](https://user-images.githubusercontent.com/73612146/97502998-da3a0d80-1939-11eb-8d6d-9b9f72e67b0f.png)
 
-se muestran las matriculas ingresadas y se pide al usuario ingresar la matricula a buscar, si la matricula introducia esta en el arreglo mandara un mensaje "la matricula no existe.
+se muestran las matriculas ingresadas y se pide al usuario ingresar la matricula a buscar, si la matricula introducia a buscar no esta en el arreglo mandara un mensaje "la matricula no existe.
 
 
