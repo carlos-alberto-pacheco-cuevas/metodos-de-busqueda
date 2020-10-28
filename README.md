@@ -21,3 +21,7 @@ Hash se refiere a una función o método para generar claves o llaves que repres
 ![image](https://user-images.githubusercontent.com/73612146/97495360-26328580-192d-11eb-86f4-f1d86ee73c00.png)
 
 # BUSQUEDA SECUENCIAL 
+
+
+![image](https://user-images.githubusercontent.com/73612146/97497603-62b3b080-1930-11eb-97a9-6e26b4048f6e.png)
+
