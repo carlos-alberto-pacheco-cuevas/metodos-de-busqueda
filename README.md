@@ -26,12 +26,21 @@ Hash se refiere a una función o método para generar claves o llaves que repres
 
 El primer ciclo for lo ocupo para ingresar los datos Ami arreglo en "cin>>numeroarreglo[i]" le estoy indicando al código que me capture numeroareglo en la posición i y como mi i la tengo Iguala a cero empieza desde esa posición luego regresa al ciclo for y vuelve a comparar pero como en mi ciclo for le estoy indicando que cada ves que pase por Hai incremente 1 cuando vuelva a pasar la i cambiará de valor hasta llegar a 10 que es el límite de mi arreglo.
 En el segundo for lo que ago es imprimir mi arreglo simplemente diciendo que imprima numeroarreglo en la posición [i] y de igual forma como i está igualada a p empiesa a imprimir desde la posición 0 hasta la 10 cada unos de los valores que hay es ese espacio. 
-En el tercer ciclo for voy a buscar mi dato por lo cual lo anido con un if lo que hace mi for es visualizar cada uno de los espacios del arreglo y mi if compara el dato de esa posición con la de el dato que estoy buscando cuando el if encuentre la considencia usaremos la bandera ya ella cambiará de valor de 0 a 1 indicando que el ciclo for de pare
+En el tercer ciclo for voy a buscar mi dato por lo cual lo anido con un if lo que hace mi for es visualizar cada uno de los espacios del arreglo y mi if compara el dato de esa posición con la de el dato que estoy buscando cuando el if encuentre la considencia usaremos la bandera ya ella cambiará de valor de 0 a 1 indicando que el ciclo for que pare.
 
+#EJECUCION DEL PROGRAMA 
+
+![image](https://user-images.githubusercontent.com/73612146/97503370-867bf400-193a-11eb-9ecb-e66532b46031.png)
+
+Se insertena las las matriculas.
 
 ![image](https://user-images.githubusercontent.com/73612146/97502780-77e10d00-1939-11eb-9e79-9002840528f9.png)
 
+se muestran las matriculas ingresadas y se pide al usuario ingresar la matricula a buscar, si la matricula introducia esta en el arreglo mandara un mensaje "la matricula esta en uso".
+
 
 ![image](https://user-images.githubusercontent.com/73612146/97502998-da3a0d80-1939-11eb-8d6d-9b9f72e67b0f.png)
+
+se muestran las matriculas ingresadas y se pide al usuario ingresar la matricula a buscar, si la matricula introducia esta en el arreglo mandara un mensaje "la matricula no existe.
 
 
