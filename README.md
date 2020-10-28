@@ -29,6 +29,6 @@ En el segundo for lo que ago es imprimir mi arreglo simplemente diciendo que imp
 En el tercer ciclo for voy a buscar mi dato por lo cual lo anido con un if lo que hace mi for es visualizar cada uno de los espacios del arreglo y mi if compara el dato de esa posición con la de el dato que estoy buscando cuando el if encuentre la considencia usaremos la bandera ya ella cambiará de valor de 0 a 1 indicando que el ciclo for de pare
 
 
-
+![image](https://user-images.githubusercontent.com/73612146/97502780-77e10d00-1939-11eb-9e79-9002840528f9.png)
 
 
