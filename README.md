@@ -32,3 +32,6 @@ En el tercer ciclo for voy a buscar mi dato por lo cual lo anido con un if lo qu
 ![image](https://user-images.githubusercontent.com/73612146/97502780-77e10d00-1939-11eb-9e79-9002840528f9.png)
 
 
+![image](https://user-images.githubusercontent.com/73612146/97502998-da3a0d80-1939-11eb-8d6d-9b9f72e67b0f.png)
+
+
