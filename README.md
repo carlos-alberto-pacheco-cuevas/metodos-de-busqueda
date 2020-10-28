@@ -32,7 +32,7 @@ En el tercer ciclo for voy a buscar mi dato por lo cual lo anido con un if lo qu
 
 ![image](https://user-images.githubusercontent.com/73612146/97503370-867bf400-193a-11eb-9ecb-e66532b46031.png)
 
-Se insertena las las matriculas.
+Se insertan las las matriculas.
 
 ![image](https://user-images.githubusercontent.com/73612146/97502780-77e10d00-1939-11eb-9e79-9002840528f9.png)
 
